@@ -1,0 +1,101 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Justin MacQueen
+ID:      169058167
+Email:   macq8167@mylaurier.ca
+Version: 2024-01-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Number of values in list:  10
+Enter value to be appended to list: 1
+Enter value to be appended to list: 1
+Enter value to be appended to list: 5
+Enter value to be appended to list: 5
+Enter value to be appended to list: 3
+Enter value to be appended to list: 5
+Enter value to be appended to list: 6
+Enter value to be appended to list: 2
+Enter value to be appended to list: 2
+Enter value to be appended to list: 6
+[1, 5, 3, 6, 2]
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Number of values in minuend: 4
+Enter value to be appended to minuend: 5
+Enter value to be appended to minuend: 5
+Enter value to be appended to minuend: 4
+Enter value to be appended to minuend: 5
+Number of values in subtrahend: 1
+Enter value to be appended to subtrahend: 5
+[4]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a string: i think your book is an utter piece of garbage
+ thnk yr bk s n ttr pc f grbg
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+50,114,15,44,15
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the year: 1900
+False
+
+-------------------------------------------------------
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter a name: JustinMac$
+False
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Number of values in list: 4
+Enter value to add to list: 40
+Enter value to add to list: 20
+Enter value to add to list: 10
+Enter value to add to list: 5
+20
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter number of lists in a: 2
+Enter the number of numbers per list: 3
+Enter list value: 1
+Enter list value: 2
+Enter list value: 3
+Enter list value: 4
+Enter list value: 5
+Enter list value: 6
+(1.0, 6.0, 21.0, 3.5)
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter number of lists in a: 3
+Enter the number of numbers per list: 2
+Enter list value: 0
+Enter list value: 1
+Enter list value: 2
+Enter list value: 3
+Enter list value: 4
+Enter list value: 5
+Enter number of lists in b: 3
+Enter the number of numbers per list: 2
+Enter list value: 6
+Enter list value: 7
+Enter list value: 8
+Enter list value: 9
+Enter list value: 1
+Enter list value: 0
+[[6, 8], [10, 12], [5, 5]]
+
